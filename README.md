@@ -118,3 +118,9 @@ The project serves as a bridge between recorded traces and observable coordinati
 Concept and placeholder repository.
 
 Initial focus is on Git-based datasets and open-source communities before expanding to broader coordination systems.
+
+This repository is an active research project.
+
+The ideas described here are hypotheses under exploration and may evolve as implementations, experiments, and community feedback provide new evidence.
+
+Semut documents both successful and unsuccessful ideas as part of the project's long-term evolution.
